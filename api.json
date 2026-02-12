@@ -1,0 +1,534 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/yowie",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "yowie",
+    "name": "Yowie",
+    "aliases": [
+      {
+        "name": "Doolagahl",
+        "language": "Aboriginal Australian",
+        "region": "Various nations",
+        "meaning": "Wild man"
+      },
+      {
+        "name": "Thoolagal",
+        "language": "Aboriginal Australian",
+        "region": "Various nations"
+      },
+      {
+        "name": "Tjangara",
+        "language": "Aboriginal Australian",
+        "region": "Various nations"
+      },
+      {
+        "name": "Yahoo",
+        "language": "Aboriginal Australian",
+        "region": "Various nations"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Humanoid",
+    "tags": [
+      "humanoid",
+      "bipedal",
+      "primate",
+      "forest-dwelling",
+      "australia",
+      "nocturnal",
+      "large-creature"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "The Australian equivalent to Bigfoot and Yeti, a large bipedal humanoid cryptid reported across Australia. Standing 6-12 feet tall with reddish-brown hair, the Yowie features prominently in Aboriginal traditions predating European contact.",
+      "full": "The Yowie is a large, ape-like bipedal creature reported throughout Australia, particularly in eastern regions. Described as standing 6-12 feet tall with reddish-brown hair covering its body, the Yowie is the Australian counterpart to similar cryptid hominids like Bigfoot and Yeti. Aboriginal traditions of the Yowie predate European contact by thousands of years, with different names across various Aboriginal nations. Modern sightings continue in areas including the Gold Coast, Blue Mountains, and Queensland rainforests, with notable cases like the 1970s Kilcoy Yowie generating significant media attention."
+    },
+    "etymology": {
+      "origin": "The term 'Yowie' likely derives from Aboriginal Australian languages, though exact origins are debated. It may be related to 'Yahoo' used by some Aboriginal groups.",
+      "meaning": "Generally refers to a large, hairy wild man or forest creature",
+      "first_use": "Aboriginal traditions (ancient); European documentation from 1800s"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Humanoid",
+      "subtype": "Primate-like",
+      "variant": "Australian"
+    },
+    "related_phenomena": [
+      {
+        "id": "bigfoot",
+        "name": "Bigfoot",
+        "relationship": "similar",
+        "description": "North American equivalent cryptid hominid"
+      },
+      {
+        "id": "yeti",
+        "name": "Yeti",
+        "relationship": "similar",
+        "description": "Himalayan equivalent, Abominable Snowman"
+      },
+      {
+        "id": "almas",
+        "name": "Almas",
+        "relationship": "similar",
+        "description": "Central Asian wild man"
+      },
+      {
+        "id": "orang-pendek",
+        "name": "Orang Pendek",
+        "relationship": "similar",
+        "description": "Indonesian short bipedal primate"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 1.8,
+        "max": 3.7,
+        "unit": "meters",
+        "confidence": "medium"
+      },
+      "weight": {
+        "min": 150,
+        "max": 400,
+        "unit": "kilograms",
+        "confidence": "low"
+      },
+      "coloration": [
+        "reddish-brown",
+        "brown",
+        "dark brown",
+        "black (less common)"
+      ],
+      "features": [
+        {
+          "feature": "Body hair",
+          "description": "Covered in thick, coarse reddish-brown hair",
+          "frequency": "always"
+        },
+        {
+          "feature": "Facial structure",
+          "description": "Ape-like face with pronounced brow ridge",
+          "frequency": "common"
+        },
+        {
+          "feature": "Eyes",
+          "description": "Large, dark eyes often reported as reflective at night",
+          "frequency": "common"
+        },
+        {
+          "feature": "Large feet",
+          "description": "Footprints typically 12-20 inches long, 5-toed",
+          "frequency": "always"
+        },
+        {
+          "feature": "Odor",
+          "description": "Strong, unpleasant smell often reported",
+          "frequency": "common"
+        },
+        {
+          "feature": "Build",
+          "description": "Muscular build, broad shoulders, long arms",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Bipedal humanoid with ape-like features. Muscular build with broad shoulders and chest. Arms proportionally longer than human. Walks upright on two legs."
+    },
+    "abilities": [
+      {
+        "ability": "Vocalizations",
+        "description": "Range of sounds including howls, screams, and grunts",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Stealth",
+        "description": "Ability to move silently through dense bushland",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Rock throwing",
+        "description": "Reported to throw rocks at observers",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Tree climbing",
+        "description": "Some reports suggest arboreal capabilities",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "neutral to avoidant",
+      "social_structure": "variable",
+      "habitat_preference": [
+        "dense rainforest",
+        "mountainous terrain",
+        "bushland",
+        "remote wilderness areas"
+      ],
+      "diet": "Presumed omnivorous",
+      "patterns": [
+        "Avoids human contact",
+        "Nocturnal activity patterns",
+        "Territorial behavior reported",
+        "Follows creek and river systems"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Reported across Australia, with highest concentration in eastern states. Primary areas include Queensland rainforests, Blue Mountains of New South Wales, and Gold Coast hinterland.",
+      "continents": ["Australia"],
+      "countries": ["Australia"],
+      "regions": [
+        "Queensland",
+        "New South Wales",
+        "Victoria",
+        "Gold Coast",
+        "Blue Mountains"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Gold Coast Hinterland",
+        "location": {
+          "description": "Gold Coast hinterland and surrounding forests",
+          "country": "Australia",
+          "region": "Queensland",
+          "coordinates": {
+            "latitude": -28.0836,
+            "longitude": 153.3830
+          }
+        },
+        "sighting_count": 100,
+        "peak_period": "1970s-present",
+        "notes": "Consistent sightings in forested areas"
+      },
+      {
+        "name": "Blue Mountains",
+        "location": {
+          "description": "Blue Mountains National Park area",
+          "country": "Australia",
+          "region": "New South Wales",
+          "coordinates": {
+            "latitude": -33.7088,
+            "longitude": 150.3114
+          }
+        },
+        "sighting_count": 75,
+        "peak_period": "1980s-present",
+        "notes": "Dense bushland and remote valleys"
+      },
+      {
+        "name": "Queensland Rainforests",
+        "location": {
+          "description": "Far North Queensland rainforest regions",
+          "country": "Australia",
+          "region": "Queensland",
+          "coordinates": {
+            "latitude": -17.3850,
+            "longitude": 145.4295
+          }
+        },
+        "sighting_count": 60,
+        "peak_period": "1960s-present",
+        "notes": "Tropical rainforest habitat"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-colonial",
+        "circa": true,
+        "source": "Aboriginal oral traditions predate European contact by thousands of years"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1970s",
+          "description": "Kilcoy Yowie and increased media attention"
+        },
+        {
+          "period": "2000-present",
+          "description": "Continued sightings with highway encounters"
+        }
+      ],
+      "seasonal_patterns": "Reports throughout year, slightly higher in warmer months"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Aboriginal peoples of Australia have ancient traditions involving large, hairy beings with different names across various nations including Doolagahl, Thoolagal, Tjangara, and Yahoo.",
+      "earliest_accounts": "Aboriginal oral traditions dating back thousands of years. European documentation from 1800s colonial period.",
+      "folklore_connections": "Connected to global hominid cryptid traditions including Bigfoot, Yeti, and other wild man legends."
+    },
+    "timeline": [
+      {
+        "date": "Pre-colonial",
+        "event": "Aboriginal oral traditions",
+        "significance": "Ancient traditions across multiple Aboriginal nations",
+        "source": "Indigenous oral histories"
+      },
+      {
+        "date": "1800s",
+        "event": "Early European settler reports",
+        "significance": "First European documentation of encounters",
+        "source": "Colonial records"
+      },
+      {
+        "date": "1970s",
+        "event": "Kilcoy Yowie incident",
+        "significance": "Famous case generating widespread media attention",
+        "source": "Newspaper reports"
+      },
+      {
+        "date": "1990s-2000s",
+        "event": "Highway sightings increase",
+        "significance": "Numerous reports along Queensland and NSW highways",
+        "source": "Australian Yowie Research"
+      },
+      {
+        "date": "2000-present",
+        "event": "Modern research era",
+        "significance": "Dean Harrison and Australian Yowie Research organization active",
+        "source": "Research organizations"
+      }
+    ],
+    "modern_era": "Modern Yowie research combines field investigation with analysis of footprint casts, hair samples, and eyewitness reports. Organizations like Australian Yowie Research maintain databases and conduct expeditions."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 800,
+      "verified": 0,
+      "disputed": 700,
+      "debunked": 50,
+      "date_range": {
+        "earliest": "Pre-colonial",
+        "latest": "2026"
+      }
+    },
+    "notable": [
+      {
+        "id": "yowie-sighting-1970s-kilcoy",
+        "name": "Kilcoy Yowie",
+        "date": {
+          "value": "1970s",
+          "precision": "decade"
+        },
+        "location": {
+          "description": "Kilcoy area",
+          "country": "Australia",
+          "region": "Queensland",
+          "coordinates": {
+            "latitude": -26.9478,
+            "longitude": 152.5625,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 1,
+          "types": ["Local resident"],
+          "credibility_factors": ["Detailed description", "Media coverage"]
+        },
+        "description": "A famous encounter near Kilcoy that generated significant media attention. The witness reported a large, hair-covered bipedal creature in the area, matching traditional Yowie descriptions.",
+        "conditions": {
+          "weather": "Clear",
+          "visibility": "Good",
+          "time_of_day": "Day",
+          "duration": "Several minutes"
+        },
+        "evidence": [
+          "Witness testimony",
+          "Media documentation"
+        ],
+        "credibility": {
+          "rating": "medium",
+          "factors": [
+            "Detailed witness account",
+            "Contemporary media coverage",
+            "Consistent with other reports"
+          ],
+          "notes": "One of the most famous Australian Yowie cases"
+        },
+        "sources": [
+          "Australian newspaper archives",
+          "Australian Yowie Research records"
+        ],
+        "featured": true
+      }
+    ],
+    "database_path": "./sightings/"
+  },
+
+  "evidence": {
+    "physical": [
+      {
+        "id": "yowie-evidence-footprints",
+        "type": "footprints",
+        "name": "Documented footprint casts",
+        "date": "Various",
+        "description": "Numerous footprint casts collected across Australia, ranging from 12-20 inches in length",
+        "status": "disputed",
+        "analysis": "Analyzed by researchers for anatomical consistency",
+        "source": "Australian Yowie Research and independent researchers"
+      },
+      {
+        "id": "yowie-evidence-hair",
+        "type": "hair samples",
+        "name": "Hair samples",
+        "description": "Hair samples collected from sighting locations",
+        "status": "disputed",
+        "analysis": "Most identified as known animals, some remain unidentified"
+      }
+    ],
+    "photographic": [],
+    "video": [],
+    "audio": [
+      {
+        "id": "yowie-evidence-vocalizations",
+        "type": "audio recording",
+        "name": "Yowie vocalizations",
+        "date": "Various",
+        "description": "Recordings of alleged Yowie howls and calls",
+        "status": "disputed",
+        "analysis": "Compared to known Australian wildlife"
+      }
+    ],
+    "trace": []
+  },
+
+  "theories": {
+    "paranormal": [],
+    "scientific": [
+      {
+        "name": "Unknown primate species",
+        "description": "Yowie represents an undiscovered primate species possibly related to Gigantopithecus",
+        "proponents": ["Australian Yowie Research"],
+        "evidence_cited": ["Consistent eyewitness descriptions", "Footprint evidence", "Aboriginal traditions"]
+      },
+      {
+        "name": "Surviving megafauna",
+        "description": "Possibly a surviving species from Australia's megafauna era",
+        "proponents": ["Some cryptozoologists"],
+        "evidence_cited": ["Australia's history of unique megafauna", "Isolated ecosystems"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misidentification",
+        "description": "Sightings are misidentifications of kangaroos standing on hind legs or large wombats",
+        "proponents": ["Skeptical investigators"],
+        "evidence_cited": ["Kangaroos can appear bipedal from certain angles", "Poor lighting conditions in many reports"]
+      },
+      {
+        "name": "Folklore and hoax",
+        "description": "Cultural phenomenon based on Aboriginal folklore with some deliberate hoaxes",
+        "proponents": ["Skeptical researchers"],
+        "evidence_cited": ["Lack of physical evidence", "Correlation with media coverage"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Aboriginal Doolagahl traditions",
+        "Thoolagal legends",
+        "Tjangara stories across various nations"
+      ],
+      "stories": [
+        "Traditional Aboriginal stories of forest guardians",
+        "Tales of hairy wild men in the bush"
+      ],
+      "beliefs": "Many Aboriginal nations have long-standing traditions of large, hairy beings inhabiting remote forests and mountains."
+    },
+    "indigenous": {
+      "cultures": [
+        "Various Aboriginal Australian nations"
+      ],
+      "significance": "Integral part of traditional Aboriginal knowledge systems and spiritual beliefs across multiple nations.",
+      "sensitivity_note": "Aboriginal traditions of the Yowie predate European contact by thousands of years and are sacred to many communities. These are living traditions that deserve respect and should not be appropriated or misrepresented.",
+      "respect_guidelines": "Consult with Aboriginal elders and communities before investigating on traditional lands. Recognize that Aboriginal perspectives on the Yowie are spiritual and cultural, not merely cryptozoological."
+    },
+    "popular_culture": {
+      "literature": [
+        "Dean Harrison's Yowie research publications",
+        "Australian cryptozoology books"
+      ],
+      "film_tv": [
+        "Australian documentary features",
+        "News coverage of sightings"
+      ],
+      "games": [],
+      "other": [
+        "Tourist attractions in Blue Mountains region",
+        "Yowie chocolate candy (unrelated to cryptid)"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Dean Harrison",
+        "affiliation": "Australian Yowie Research",
+        "contribution": "Leading Yowie researcher, extensive field work and database compilation",
+        "period": "1990s-present"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Australian Yowie Research",
+        "url": "http://www.australianyowieresearch.com",
+        "focus": "Field research and sighting database for Australian region"
+      }
+    ],
+    "ongoing_studies": "Active research includes footprint analysis, field expeditions in known hotspot areas, and compilation of eyewitness reports."
+  },
+
+  "sources": [
+    {
+      "id": "harrison-yowie",
+      "type": "website",
+      "title": "Australian Yowie Research",
+      "authors": ["Dean Harrison"],
+      "url": "http://www.australianyowieresearch.com",
+      "accessed": "2026-01-14"
+    },
+    {
+      "id": "aboriginal-traditions",
+      "type": "cultural",
+      "title": "Aboriginal oral traditions",
+      "description": "Various Aboriginal nation traditions regarding Doolagahl, Thoolagal, and related beings",
+      "note": "Requires cultural sensitivity and respect"
+    }
+  ]
+}
