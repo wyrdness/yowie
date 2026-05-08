@@ -1,87 +1,22 @@
-# Sources & References
+# Sources & References — Yowie
+
+Bibliography compiled from `api.json`. To add a source, edit `api.json` and regenerate.
 
 ## Books
 
-### Cryptozoology
-- Harrison, D. (Various). Yowie research publications. Australian Yowie Research.
-- Gilroy, R. (1995). *Mysterious Australia*. Nexus Publishing.
-- Healy, T. & Cropper, P. (2006). *The Yowie: In Search of Australia's Bigfoot*. Anomalist Books.
+- Tony Healy, Paul Cropper. (2006). *The Yowie: In Search of Australia's Bigfoot*. Anomalist Books. ISBN: 978-1933665160
+- Rex Gilroy. (2001). *Giants from the Dreamtime: The Yowie in Myth and Reality*
+- Graham Joyner. (1977). *The Hairy Man of South Eastern Australia*
+- Robert Holden. (2001). *Bunyips: Australia's Folklore of Fear*. National Library of Australia
+- William Ridley. (1875). *Kámilarói, and Other Australian Languages*
 
-### Aboriginal Culture & Traditions
-> Note: Aboriginal knowledge should be approached with respect. Consult with Aboriginal elders and communities for cultural context.
+## Articles
 
-- Reed, A.W. (1999). *Aboriginal Myths, Legends and Fables*. New Holland Publishers.
-- Roberts, A. et al. (1975). *The Dreamtime Heritage: Australian Aboriginal Myths*. Rigby Limited.
+- *Yowie*. Encyclopedia.com. <https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/yowie>
 
-## Research Organizations & Databases
+## Websites
 
-- Australian Yowie Research. http://www.australianyowieresearch.com/
-- Australian Centre for Fortean Zoology. Yowie reports database.
-- Centre for Fortean Zoology Australia. http://cfz-australia.blogspot.com/
-
-## Newspaper & Media Sources
-
-### Historical
-- Various Queensland newspaper reports, 1800s-1900s. Colonial encounter accounts.
-- "Mysterious Beast Sighted" (Various dates, 1970s). Queensland regional newspapers.
-
-### Modern
-- Kilcoy Yowie media coverage (1970s). Queensland press.
-- Gold Coast Bulletin. Various Yowie sighting reports (1990s-2020s).
-- Brisbane Times. Contemporary sighting coverage.
-
-## Documentaries & Media
-
-- *Australian Monster: The Yowie* (2011). Documentary feature.
-- Various Australian TV news segments on Yowie sightings.
-- Podcast features on Australian cryptozoology.
-
-## Academic & Cultural Sources
-
-- Aboriginal oral traditions. Multiple nations. Note: Requires cultural sensitivity and permission.
-- Anthropological studies of Aboriginal mythology and folklore.
-
-## Online Resources
-
-- Australian Yowie Research database. http://www.australianyowieresearch.com/
-- Cryptozoology News - Australian section. Various articles.
-- Australian Museum online resources. Aboriginal culture and traditions.
-
-## Skeptical Sources
-
-- Australian Skeptics. Analysis of Yowie claims.
-- Wildlife misidentification studies. Kangaroo behavior and appearance.
-- Critical analysis of footprint evidence.
-
-## Indigenous Cultural Resources
-
-> ⚠️ **Important**: Aboriginal traditions are living spiritual and cultural practices. The Yowie/Doolagahl/Thoolagal traditions are sacred to many Aboriginal communities. Always:
-> - Consult with Aboriginal elders before investigating on traditional lands
-> - Respect that these are spiritual/cultural traditions, not merely cryptozoological subjects
-> - Do not appropriate or misrepresent Aboriginal beliefs
-> - Recognize that Aboriginal knowledge predates European contact by thousands of years
-
-- Consult with local Aboriginal land councils and elders
-- Regional Aboriginal cultural centers
-- Aboriginal heritage organizations
-
-## Related Cryptid Research
-
-- Bigfoot Field Researchers Organization. Comparative hominid cryptid research.
-- International Cryptozoology Museum. Global cryptid hominid database.
-- Centre for Fortean Zoology. Worldwide cryptid research.
+- *Yowie*. <https://en.wikipedia.org/wiki/Yowie>
 
 ---
-
-## Citation Format
-
-When citing this repository:
-
-```
-Wyrdness Project. (2026). Yowie. Wyrdness Paranormal Archive.
-https://github.com/wyrdness/yowie
-```
-
----
-
-*Last Updated: 2026-01-14*
+_Auto-generated from `api.json`._
